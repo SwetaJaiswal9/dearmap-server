@@ -1,6 +1,7 @@
 {
   "name": "dearmap-server",
   "version": "1.0.0",
+  "start": "node server.js",
   "type": "module",
   "description": "",
   "main": "index.js",
